@@ -1,5 +1,5 @@
 <!-- 🌈 Stylish & minimal GitHub profile for Katja -->
-<h1 align="center">✨ Hi, I'm <a href="#" style="color:#b54bff;">Katia</a> 👋</h1>
+<h1 align="center">✨ Hi, I'm <a href="#">Katia</a> 👋</h1>
 
 <p align="center">
 🎓 Java Developer Student @ Edugrade (Java25)<br>
