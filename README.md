@@ -1,5 +1,5 @@
 <!-- 🌈 Stylish & minimal GitHub profile for Katja -->
-<h1 align="center">✨ Hi, I'm <a href="#">Katja</a> 👋</h1>
+<h1 align="center">✨ Hi, I'm <a href="#">Katia</a> 👋</h1>
 
 <p align="center">
 🎓 Java Developer Student @ Edugrade (Java25)<br>
@@ -9,16 +9,16 @@
 
 ---
 
-### 🌸 Om mig / About Me
-💡 Nyfiken på teknikens värld — Curious mind exploring tech  
-⚙️ Lär mig **Java, OOP och databaser (SQLite)**  
-💪 Kombinerar struktur från träning med logik i programmering  
-🌍 Bas i Sverige — open for learning, collaboration & growth  
-🗣️ Språk: svenska, engelska, spanska & ryska (tal)
+### 🌸 About Me
+💡 Curious mind exploring tech  
+⚙️ Currently learning: **Java, OOP, databases (SQLite), SQL**  
+💪 Combining strukture from fitness with logic in programming   
+🌍 Based in Sweden  — open for learning, collaboration & growth  
+🗣️ Languages: Swedish, English and Spanish (all 3 fluent) + Russian (conversational)
 
 ---
 
-### 🚀 Projekt / Projects
+### 🚀 Projects
 - 🎮 **GymQuest** – Java RPG game (Hero vs Monster)  
 - 🧩 **OOP Assignment** – abstraction, inheritance & encapsulation  
 - 🗂️ **Database Practice** – building an SQLite database in DataGrip  
