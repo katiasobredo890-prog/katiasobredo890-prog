@@ -22,6 +22,8 @@
 - 🎮 **GymQuest** – Java RPG game (Hero vs Monster)  
 - 🧩 **OOP Assignment** – abstraction, inheritance & encapsulation  
 - 🗂️ **Database Practice** – building an SQLite database in DataGrip  
+- 📚 **Library System (Group Project)** – Java console app using MySQL, Docker & JDBC.  
+Includes ER-diagram, CRUD operations, and advanced SQL queries.
 
 ---
 
@@ -35,6 +37,8 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/DataGrip-000000?logo=datagrip&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"/>
 </p>
 
 ---
