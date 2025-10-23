@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-purple?logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-blue?logo=sqlite"/>
   <img src="https://img.shields.io/badge/GitHub-black?logo=github"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
 </p>
 
 ---
