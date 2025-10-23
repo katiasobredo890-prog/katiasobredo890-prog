@@ -32,6 +32,9 @@
   <img src="https://img.shields.io/badge/SQLite-blue?logo=sqlite"/>
   <img src="https://img.shields.io/badge/GitHub-black?logo=github"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DataGrip-000000?logo=datagrip&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
 </p>
 
 ---
