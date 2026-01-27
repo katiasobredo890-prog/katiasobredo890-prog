@@ -3,7 +3,6 @@
 
 <p align="center">
 🎓 Java Developer Student @ Edugrade (Java25)<br>
-🏋️‍♀️ Certified Personal Trainer & Nutrition Coach<br>
 💻 Passionate about coding, health, and self-development
 </p>
 
@@ -11,8 +10,7 @@
 
 ### 🌸 About Me
 💡 Curious mind exploring tech  
-⚙️ Currently learning: **Java, OOP, databases (SQLite), SQL**  
-💪 Combining strukture from fitness with logic in programming   
+⚙️ Currently learning: **Java, OOP, databases (SQLite), SQL**    
 🌍 Based in Sweden  — open for learning, collaboration & growth  
 🗣️ Languages: Swedish, English and Spanish (all 3 fluent) + Russian (conversational)
 
@@ -24,7 +22,17 @@
 - 🗂️ **Database Practice** – building an SQLite database in DataGrip  
 - 📚 **Library System (Group Project)** – Java console app using MySQL, Docker & JDBC.  
 Includes ER-diagram, CRUD operations, and advanced SQL queries.
-
+- 🧪 **Advanced Java – Individual Assignment**  
+  Individuell backend-uppgift med fokus på avancerad Java.  
+  Implementerade affärslogik med objektorienterad design samt enhetstester för att verifiera funktionalitet och kvalitet.
+- 💬 **Social Media Platform (Group Project)**  
+  Backend-fokuserad applikation med användare, inlägg, kommentarer och relationer.  
+  Fokus på datamodellering, affärslogik och strukturerad kod.
+- ♻️ **Refactoring & Clean Code**  
+  Förbättring av befintlig kod med fokus på läsbarhet, ansvarsfördelning och underhållbarhet.
+- 🧠 **Design Patterns**  
+  Praktisk tillämpning av vanliga designmönster (t.ex. Factory, Singleton, Strategy)  
+  för bättre arkitektur och flexibilitet.
 ---
 
 ### 🛠️ Tech Stack
@@ -39,6 +47,14 @@ Includes ER-diagram, CRUD operations, and advanced SQL queries.
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=white"/>
+  <br/>
+   <img src="https://img.shields.io/badge/REST%20API-005571?logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design%20Patterns-4A4A4A?logoColor=white"/>
+  <br/>
+   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white"/>
+
 </p>
 
 ---
