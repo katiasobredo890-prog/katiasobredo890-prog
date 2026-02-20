@@ -1,6 +1,7 @@
 <!-- 🌈 Stylish & minimal GitHub profile for Katja -->
 <h1 align="center">✨ Hi, I'm <a href="#">Katia</a> 👋</h1>
 
+
 <p align="center">
 🎓 Java Developer Student @ Edugrade (Java25)<br>
 💻 Passionate about coding, health, and self-development
@@ -52,17 +53,13 @@ Includes ER-diagram, CRUD operations, and advanced SQL queries.
    <img src="https://img.shields.io/badge/REST%20API-005571?logoColor=white"/>
   <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Design%20Patterns-4A4A4A?logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?logo=java&logoColor=white"/>
   <br/>
-   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white"/>
 
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=katiasobredo890-prog&show_icons=true&theme=tokyonight"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiasobredo890-prog&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
